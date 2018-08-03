@@ -1,0 +1,1 @@
+# katalon-applitools-integration-tests
